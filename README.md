@@ -44,5 +44,10 @@ The system offers features for user authentication, package browsing, hotel book
 
 ## Contributors
 - **Nidhi Kalouni**
+  
+**Contribution**
+ Contributions are welcome! If you have any suggestions or improvements, please create a pull request or open an issue.
+
+  
 
 
